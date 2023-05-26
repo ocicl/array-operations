@@ -1,0 +1,9 @@
+* array-operations
+
+Common Lisp utilities for working with arrays.
+
+|---------+-------------------------------------------------------|
+| source  | git:https://github.com/Lisp-Stat/array-operations.git |
+| commit  | 6dbe6a6                                               |
+| systems | array-operations                                      |
+|---------+-------------------------------------------------------|
