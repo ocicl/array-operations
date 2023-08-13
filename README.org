@@ -2,8 +2,9 @@
 
 Common Lisp utilities for working with arrays.
 
+
 |---------+-------------------------------------------------------|
 | source  | git:https://github.com/Lisp-Stat/array-operations.git |
-| commit  | 935f0e9                                               |
+| commit  | 935f0e5                                               |
 | systems | array-operations                                      |
 |---------+-------------------------------------------------------|
